@@ -12,7 +12,7 @@ main files:
 - utils/transfer_attack.py: algorithm used for both our adaptive attacks and AdverGait
 - pip.py, nearside.py, mirrorcheck.py: implementation of our baseline detectors
 - attack_nips.py: short scripts that launches adaptive attacks against AdverGait and the baselines on the NIPS2017 dataset
-- pipsvm_3.joblib, nearside_adv_dir_vlm_3.joblib: pre-trained components to perform detection with PIP and Nearside
+- pipsvm_x.joblib, nearside_adv_dir_vlm_x.pt: pre-trained components to perform detection with PIP and Nearside
 
 
 
