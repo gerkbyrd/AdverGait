@@ -1,5 +1,6 @@
 ## The Adversarial Gait: Detecting Adversarial Attacks against Vision-Language Models via Self-Targeted Gradient Characterization
-[![PDF Preview](diagram/preview.png)](diagram/document.pdf)
+<img width="931" height="266" alt="image" src="https://github.com/user-attachments/assets/88d34216-9e1a-4895-ae2b-b1a9b540ef20" />
+
 
 This repository contains the implementation for the core components of the paper. The code is organized as follows:
 
